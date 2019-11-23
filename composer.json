@@ -60,5 +60,8 @@
         "branch-alias": {
             "dev-master": "2.0-dev"
         }
+    },
+    "conflict": {
+        "twig/twig": "<1.40|>=2.0,<2.9"
     }
 }
